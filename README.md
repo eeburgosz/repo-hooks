@@ -1,5 +1,5 @@
 Repositorio que contiene los siguientes hooks:
 
-    - useCounter.
+    -useCounter.
     -useFetch.
     -useForm.
